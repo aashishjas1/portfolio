@@ -6,12 +6,12 @@ import { useEffect, useRef, useState } from "react"
 const education = [
   {
     degree: "Bachelor of Computer Science",
-    institution: "University of Technology",
-    year: "2018 - 2022",
+    institution: "jecrc university ",
+    year: "2023 - 2027",
   },
   {
-    degree: "Full Stack Development Bootcamp",
-    institution: "Tech Academy",
+    degree: "•	Senior Secondary (RBSE, 79.86%) ",
+    institution: " Dhruva Public School",
     year: "2022",
   },
 ]
